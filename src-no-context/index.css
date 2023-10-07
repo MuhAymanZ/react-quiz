@@ -43,13 +43,9 @@ body {
 .app-header {
 	width: 66rem;
 	margin-bottom: 4rem;
-}
-.app-header a {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	color: #fff;
-	text-decoration: none;
 }
 
 .error {
